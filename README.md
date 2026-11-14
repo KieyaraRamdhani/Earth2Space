@@ -1,25 +1,27 @@
-🚀 EarthToMars | Beyond Earth, Towards the Stars
+🚀 EarthToMars
+
+Beyond Earth, Towards the Stars
 
 <p align="center">
-  <img src="earthtomars-typing-banner.gif" width="100%" alt="Animated Earth to Moon to Mars mission banner"/>
+  <img src="assets/earthtomars-typing-banner.gif" width="100%" alt="Animated Earth to Moon to Mars banner"/>
 </p>
 <p align="center">
-  **IDENTIFYING EARTH'S ANALOG LOCATIONS FOR PERMANENT MOON & MARS BASES**
+  <b>IDENTIFYING EARTH'S ANALOG LOCATIONS FOR PERMANENT MOON & MARS BASES</b>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/NASA-Space%20Apps%20Challenge-0B3D91?style=for-the-badge&logo=nasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Research-Planetary%20Exploration-5141A8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Planetary-Exploration-5141A8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Project-EarthToMars-101B3A?style=for-the-badge"/>
 </p>
 <p align="center">
-  🌍 Earth Exploration &nbsp; • &nbsp; 🌕 Lunar Research &nbsp; • &nbsp; 🔴 Mars Exploration
+  🌍 EARTH &nbsp; → &nbsp; 🌕 MOON &nbsp; → &nbsp; 🔴 MARS
 </p>
 
 ⸻
 
-✦ 01. THE MISSION
+🌌 01. THE MISSION
 
-What if the key to living on the Moon and Mars could be found right here on Earth?
+What if the key to establishing permanent human settlements on the Moon and Mars could be found right here on Earth?
 
 EarthToMars is a planetary exploration project developed for the NASA Space Apps Challenge.
 
@@ -29,54 +31,68 @@ By exploring Earth’s extreme environments, we aim to discover real-world analo
 
 We bring together planetary science, geographical exploration, environmental research and technology to explore humanity’s future beyond Earth.
 
-✦ 02. OUR THREE WORLDS
+⸻
+
+🪐 02. EXPLORE THE THREE WORLDS
 
 <table>
 <tr>
-<td width="33%" align="center">
-
-🌍 EARTH
-
-Our Natural Laboratory
-
-Discover extreme environments that can help simulate extraterrestrial conditions.
-
+<td align="center" width="33%">
+<img src="assets/earth-analog.png" width="160" alt="Earth"/>
+<h3>🌍 EARTH</h3>
+<b>Our Natural Laboratory</b>
+<p>Discover extreme environments that can help simulate extraterrestrial conditions.</p>
 </td>
-<td width="33%" align="center">
-
-🌕 MOON
-
-Our Next Frontier
-
-Explore locations that resemble potential lunar base environments.
-
+<td align="center" width="33%">
+<img src="assets/moon-analog.png" width="160" alt="Moon"/>
+<h3>🌕 MOON</h3>
+<b>Our Next Frontier</b>
+<p>Explore locations that resemble potential lunar base environments.</p>
 </td>
-<td width="33%" align="center">
-
-🔴 MARS
-
-Our Future Home
-
-Identify landscapes that can help us prepare for permanent Martian settlements.
-
+<td align="center" width="33%">
+<img src="assets/mars-analog.png" width="160" alt="Mars"/>
+<h3>🔴 MARS</h3>
+<b>Our Future Frontier</b>
+<p>Identify landscapes that can help us prepare for permanent Martian settlements.</p>
 </td>
 </tr>
 </table>
 
-✦ 03. EARTH ANALOG LOCATIONS
+⸻
 
-We explore different environments across Earth and investigate their similarities to lunar and Martian conditions.
+🌍 03. EARTH ANALOG LOCATIONS
 
-Earth Location	Potential Analog Characteristics
-Atacama Desert, Chile	Extreme dryness and Mars-like terrain
-Antarctica	Extreme cold and isolation
-Hawaii, USA	Volcanic landscapes and rocky terrain
-Arctic Regions	Ice, extreme cold and polar environments
-Iceland	Volcanic formations and geothermal landscapes
+Earth contains some of the most extreme environments in our solar system’s planetary analog research.
 
-These are potential environmental analogs, not exact replicas of extraterrestrial environments.
+These locations offer opportunities to study environmental conditions and geological features that may help us prepare for future space exploration.
 
-✦ 04. PROJECT OBJECTIVES
+🏜️ Atacama Desert, Chile
+
+<img src="assets/atacama-analog.png" width="100%" alt="Atacama Desert landscape"/>
+
+One of Earth’s driest environments, the Atacama Desert offers valuable opportunities to study extreme aridity, soil conditions and Mars-like landscapes.
+
+❄️ Antarctica
+
+An environment characterised by extreme cold, isolation and challenging living conditions. It offers valuable insights into the logistics of operating in remote and hostile environments.
+
+🌋 Hawaii, USA
+
+Volcanic landscapes and basaltic formations provide opportunities to investigate geological features relevant to lunar and planetary surface research.
+
+🧊 Arctic Regions
+
+Cold environments, ice deposits and seasonal variations provide useful comparisons for polar exploration research.
+
+🌋 Iceland
+
+Volcanic landscapes, geothermal activity and rugged terrain offer opportunities to investigate geological analog environments.
+
+These are potential environmental analogs, not exact replicas of lunar or Martian conditions.
+
+⸻
+
+🎯 04. PROJECT OBJECTIVES
 
 * 🌍 Identify Earth locations with Moon-like and Mars-like characteristics.
 * 🛰️ Explore geographical and geological similarities.
@@ -85,111 +101,134 @@ These are potential environmental analogs, not exact replicas of extraterrestria
 * 🌕 Investigate potential lunar habitat environments.
 * 🔴 Explore possible environments for future Martian settlements.
 * 🔬 Support scientific research through publicly available datasets.
+* 🚀 Make planetary exploration information accessible through technology.
 
 ⸻
 
-✦ 05. WEBSITE & APPLICATION DESIGN
+🛰️ 05. WEBSITE DESIGN — REACT
 
-Our goal is to create an immersive planetary exploration experience that makes scientific information accessible, interactive and visually engaging.
+Our website is designed to provide an immersive planetary exploration experience.
 
-The design takes inspiration from NASA mission dashboards, planetary exploration interfaces and futuristic space technology.
+Inspired by NASA mission dashboards, space exploration interfaces and futuristic technology, the website combines scientific information with an interactive and visually engaging experience.
 
-🌌 Website — React
+✨ Website Design Features
 
-The website is designed around an interactive space exploration dashboard.
+Feature	Description
+Space-themed landing page	Immersive introduction to the mission
+Interactive planet sections	Explore Earth, Moon and Mars
+Geographic mapping	Discover potential Earth analog locations
+Location profiles	View environmental and geological information
+Comparison dashboard	Compare Earth locations with planetary environments
+Data visualisations	Display scientific information clearly
+Responsive interface	Optimised for desktop, tablet and mobile
 
-Design elements:
+🌌 Visual Design Direction
 
-* Dark space-inspired interface.
-* Animated starfields and planetary visuals.
-* Earth, Moon and Mars exploration sections.
-* Interactive geographical maps.
-* Location discovery and comparison cards.
-* Environmental data visualisations.
-* Responsive layouts for desktop, tablet and mobile.
-* Smooth transitions and interactive navigation.
-
-Website experience:
-
-1. Landing page introducing the EarthToMars mission.
-2. Interactive map displaying potential Earth analog locations.
-3. Location profiles containing environmental information.
-4. Moon and Mars comparison dashboards.
-5. Scientific datasets and research references.
-
-📱 Mobile Application — Flutter & React Native
-
-The mobile experience is designed to bring planetary exploration to users wherever they are.
-
-Mobile design features:
-
-* Mobile-friendly exploration dashboard.
-* Interactive location discovery.
-* Planetary comparison screens.
-* Location information and environmental statistics.
-* Easy navigation between Earth, Moon and Mars.
-* Saved locations and exploration favourites.
-* Responsive cards and visual data displays.
-
-Technology approach:
-
-Platform	Technology	Purpose
-Website	React	Interactive web experience
-Mobile App	Flutter	Cross-platform mobile experience
-Mobile App	React Native	Cross-platform mobile experience
-
-The design aims to maintain a consistent visual identity across the web and mobile experiences.
-
-🎨 Design System
-
-Design Element	Style
-Background	Deep Space #070B1A
-Secondary Background	Midnight Blue #101B3A
-Accent	Electric Blue #55C7FF
-Secondary Accent	Nebula Purple #5141A8
-Moon Theme	Lunar Silver #C8D0E0
-Mars Theme	Planetary Red #D96A4A
-Headings	Orbitron
-Body Text	Inter
-
-Visual experience:
-
+* Deep-space backgrounds and subtle starfield animations.
 * Glowing planetary elements.
-* Orbital lines and space-inspired dividers.
-* Animated loading and transition effects.
-* Subtle hover interactions.
-* Minimal, clean information cards.
-* Consistent planetary colour themes.
+* Animated transitions between exploration sections.
+* Interactive location cards.
+* Modern typography and futuristic interface elements.
+* Clean navigation and responsive layouts.
 
 ⸻
 
-✦ 06. TECHNOLOGY STACK
+📱 06. MOBILE APPLICATION DESIGN
+
+EarthToMars also aims to bring planetary exploration to mobile devices through a dedicated mobile experience.
+
+The mobile application focuses on accessibility, exploration and presenting scientific information in a simple, interactive format.
+
+Flutter
+
+Flutter is used as a cross-platform mobile development technology.
+
+Design features:
+
+* Mobile exploration dashboard.
+* Interactive planetary navigation.
+* Location discovery screens.
+* Environmental information cards.
+* Planetary comparison screens.
+* Responsive layouts and animations.
+
+React Native
+
+React Native is another mobile development technology considered for the application experience.
+
+Design features:
+
+* Cross-platform mobile interfaces.
+* Interactive location discovery.
+* Reusable interface components.
+* Smooth navigation.
+* Planetary information dashboards.
+* Mobile-friendly data visualisations.
+
+📲 Mobile Experience
+
+The mobile interface aims to maintain the same visual identity as the website.
+
+Users should be able to explore locations, discover environmental similarities and navigate between Earth, Moon and Mars from their mobile devices.
+
+⸻
+
+🎨 07. DESIGN SYSTEM
+
+The visual identity is inspired by deep space, planetary exploration and NASA mission-control interfaces.
+
+Element	Design
+Main Background	#070B1A
+Secondary Background	#101B3A
+Electric Blue	#55C7FF
+Nebula Purple	#5141A8
+Lunar Silver	#C8D0E0
+Mars Red	#D96A4A
+Heading Font	Orbitron
+Body Font	Inter
+
+Design Principles
+
+1. Immersive: Create a space-inspired exploration experience.
+2. Interactive: Allow users to discover and compare locations.
+3. Accessible: Present scientific information clearly.
+4. Responsive: Support different screen sizes and devices.
+5. Consistent: Maintain a unified design across web and mobile.
+
+⸻
+
+💻 08. TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,html,css,python" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,js,ts,html,css,python" alt="Technology stack"/>
 </p>
 
-Technology	Application
+Technology	Purpose
 React	Website development
 Flutter	Mobile application development
 React Native	Mobile application development
 JavaScript	Interactive functionality
 Python	Scientific data processing
-HTML & CSS	Interface structure and styling
+HTML5	Website structure
+CSS3	Website styling
 
-✦ 07. SCIENTIFIC DATA SOURCES
+⸻
 
-Our project aims to use reliable, publicly available scientific information.
+🔭 09. SCIENTIFIC DATA SOURCES
 
-Source	Research Application
-NASA Open Data	NASA datasets and scientific information
-NASA Earthdata	Earth observation and environmental data
+Our project aims to use publicly available scientific information from trusted sources.
+
+Data Source	Research Application
+NASA Open Data	NASA scientific datasets
+NASA Earthdata	Earth observation and environmental information
 NASA Planetary Data System	Planetary scientific datasets
 USGS Astrogeology	Planetary geology and mapping
 
-✦ 08. HOW WE APPROACH THE RESEARCH
+⸻
 
-Our research process follows five main stages:
+🧪 10. OUR RESEARCH APPROACH
+
+Our research process follows five main stages.
 
 01 — DISCOVER
 
@@ -201,11 +240,11 @@ Gather relevant geographical, geological and environmental datasets.
 
 03 — ANALYSE
 
-Compare the collected information with known lunar and Martian environmental conditions.
+Compare collected information with known lunar and Martian environmental conditions.
 
 04 — VISUALISE
 
-Present potential analog locations through maps, comparisons and interactive dashboards.
+Present potential analog locations through interactive maps, comparisons and dashboards.
 
 05 — EXPLORE
 
@@ -213,7 +252,7 @@ Use the findings to investigate how Earth-based research can contribute to futur
 
 ⸻
 
-✦ 09. PROJECT VISION
+🌠 11. PROJECT VISION
 
 Humanity is moving towards a future where living beyond Earth may become possible.
 
@@ -225,7 +264,7 @@ EarthToMars aims to connect those environments with the next chapter of planetar
 
 ⸻
 
-✦ 10. NASA SPACE APPS CHALLENGE
+🏆 12. NASA SPACE APPS CHALLENGE
 
 <p align="center">
   <img src="https://img.shields.io/badge/EXPLORE-SPACE-0B3D91?style=for-the-badge"/>
@@ -245,7 +284,9 @@ Developed for the NASA Space Apps Challenge, bringing together science, technolo
 
 The future of space exploration starts with what we discover on Earth.
 
-🚀 EarthToMars — Beyond Earth, Towards the Stars.
+🚀 EarthToMars
+
+Beyond Earth, Towards the Stars.
 
 </p>
 
