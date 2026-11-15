@@ -1,0 +1,17 @@
+{
+  "project": "TERRA//NEXUS",
+  "challenge": "2026 NASA Space Apps Challenge",
+  "stack": [
+    "React 18",
+    "Vite 5",
+    "React Leaflet",
+    "Leaflet",
+    "Recharts"
+  ],
+  "live_data": [
+    "NASA GIBS WMTS",
+    "NASA POWER Monthly Point API"
+  ],
+  "curated_demo_data": "Analog site profiles and initial scores in src/data.js",
+  "scientific_caveat": "Scores are heuristic screening estimates, not validated planetary similarity measurements."
+}
